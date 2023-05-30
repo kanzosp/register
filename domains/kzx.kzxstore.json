@@ -1,1 +1,17 @@
+{
+    "description": "KZX STORE STREAMING SERVICE",
 
+    "domain": "is-not-a.dev",
+    "subdomain": "kzxstore",
+
+    "owner": {
+        "email": "sempoizkimi@gmail.com"
+    },
+
+    "record": {
+        
+        "CNAME": "kz.store.com",
+        
+
+    "proxied": false
+}
