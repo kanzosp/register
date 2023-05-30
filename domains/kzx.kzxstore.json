@@ -1,17 +1,17 @@
-{
-    "description": "KZX STORE STREAMING SERVICE",
+{ 
+ "description": "kzx store Streaming Account Website",
 
-    "domain": "is-not-a.dev",
-    "subdomain": "kzxstore",
+  "domain": "is-local.org",
+  "subdomain": "kzxstr",
 
-    "owner": {
-        "email": "sempoizkimi@gmail.com"
-    },
+  "owner": {
+    "repo": "https://github.com/kanzosp/register",
+    "email": "sempoizkimi@gmail.com"
+  },
 
-    "record": {
-        
-        "CNAME": "kz.store.com",
-        
+  "record": {
+    "CNAME": ["site.kzastore.com"]
+  },
 
-    "proxied": false
+  "proxied": false
 }
